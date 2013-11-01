@@ -1,0 +1,11 @@
+/*
+Theme Name:     Girder
+Theme URI:      https://github.com/railsbridge/wordpress-theme
+Description:    Child theme for The Bootstrap, created for the RailsBridge Blog 
+Author:         RailsBridge People
+Author URI:     http://railsbridge.org
+Template:       the-bootstrap
+Version:        0.1.0
+*/
+
+@import url("../the-bootstrap/style.css");
